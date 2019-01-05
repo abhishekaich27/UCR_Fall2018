@@ -1,0 +1,62 @@
+﻿2. 
+Correlation Coefficient(Income, Age): 0.2340371026487899
+Correlation Coefficient(Income, Hours per week): 0.22968906567075978
+Correlation Coefficient(Income, Capital Gain): 0.2233288181953461
+
+
+3. 
+Income and Education:
+-------------------------------
+Correlation coefficient(Income, Bachelors) :0.1804854292020365 
+Correlation coefficient(Income, HS-grad) :-0.1311885440127737 
+Correlation coefficient(Income, 11th) :-0.08586392327838138 
+Correlation coefficient(Income, Masters) :0.17456971065151716 
+Correlation coefficient(Income, 9th) :-0.05576743851103098 
+Correlation coefficient(Income, Some-college) :-0.06353525542938808 
+Correlation coefficient(Income, Assoc-acdm) :0.0032502892468201194 
+Correlation coefficient(Income, Assoc-voc) :0.01004778008131746 
+Correlation coefficient(Income, 7th-8th) :-0.059524094983747285 
+Correlation coefficient(Income, Doctorate) :0.1325720058095709 
+Correlation coefficient(Income, Prof-school) :0.15490683578933565 
+Correlation coefficient(Income, 5th-6th) :-0.04582616682401701 
+Correlation coefficient(Income, 10th) :-0.07003784087284089 
+Correlation coefficient(Income, 1st-4th) :-0.034543988289949534 
+Correlation coefficient(Income, Preschool) :-0.02230684230054624 
+Correlation coefficient(Income, 12th) :-0.04469017135414326
+
+
+Income and Workclass:
+-------------------------------
+Correlation coefficient(Income, State-gov) :0.014843290616534367 
+Correlation coefficient(Income, Self-emp-not-inc) :0.030019053961917834 
+Correlation coefficient(Income, Private) :-0.07852827453621923 
+Correlation coefficient(Income, Federal-gov) :0.059371745431758466 
+Correlation coefficient(Income, Local-gov) :0.033090571544139497 
+Correlation coefficient(Income, ?) :-0.07819838250884364 
+Correlation coefficient(Income, Self-emp-inc) :0.13946655734051583 
+Correlation coefficient(Income, Without-pay) :-0.011680731190577383 
+Correlation coefficient(Income, Never-worked) :-0.008258636174575805
+
+
+Income and Marital Status:
+-----------------------------------
+Correlation coefficient(Income, Never-married) :-0.31844032507361325 
+Correlation coefficient(Income, Married-civ-spouse) :0.44469615504624616 
+Correlation coefficient(Income, Divorced) :-0.12699499612582316 
+Correlation coefficient(Income, Married-spouse-absent) :-0.04253155700134002 Correlation coefficient(Income, Separated) :-0.07438622703105471 
+Correlation coefficient(Income, Married-AF-spouse) :0.01206139838059629 
+Correlation coefficient(Income, Widowed) :-0.06438127591305995
+Income and Relationship:
+---------------------------------
+Correlation coefficient(Income, Not-in-family) :-0.1884973713038891 
+Correlation coefficient(Income, Husband) :0.40103526357732605 
+Correlation coefficient(Income, Wife) :0.1232635397279952 
+Correlation coefficient(Income, Own-child) :-0.22853196347375496 
+Correlation coefficient(Income, Unmarried) :-0.14285726137187282 
+Correlation coefficient(Income, Other-relative) :-0.08371649655545484
+
+
+Income and Gender:
+----------------------------
+Correlation coefficient(Income, Male) :0.21598015058403583
+Correlation coefficient(Income, Female) :-0.21598015058403583
